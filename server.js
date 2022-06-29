@@ -29,9 +29,9 @@ app.listen(PORT, () => {
 });
 
 // TO-DO:
-// - finish /js/idb.js (18.4)
+// - TEST /js/idb.js (18.4)
 // - TEST /public/manifest.json (19.5)
-// - finish /public/service-worker.js (19.4)
+// - TEST /public/service-worker.js (19.4)
 // - deploy to MongoDB Atlas (18.5)
 
 // GIVEN a budget tracker without an internet connection
