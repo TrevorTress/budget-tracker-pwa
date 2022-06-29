@@ -30,8 +30,6 @@ app.listen(PORT, () => {
 
 // TO-DO:
 // - TEST /js/idb.js (18.4)
-// - TEST /public/manifest.json (19.5)
-// - TEST /public/service-worker.js (19.4)
 // - deploy to MongoDB Atlas (18.5)
 
 // GIVEN a budget tracker without an internet connection
